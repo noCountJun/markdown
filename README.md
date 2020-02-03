@@ -24,6 +24,9 @@ public static 코드블락 테스트
 오오
 ***
 
-직접 링크 <https://github.com/noCountJun>
+직접 링크
+<https://github.com/noCountJun>
 
-참조 링크 [깃허브]<https://github.com/noCountJun>
+참조 링크
+[깃허브][gitLink]
+[gitLink]:https://github.com/noCountJun
