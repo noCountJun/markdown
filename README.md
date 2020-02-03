@@ -28,5 +28,4 @@ public static 코드블락 테스트
 <https://github.com/noCountJun>
 
 참조 링크
-[깃허브][gitLink]
-[gitLink]:https://github.com/noCountJun
+[깃허브](https://github.com/noCountJun,"에에")
