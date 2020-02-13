@@ -23,9 +23,7 @@ public static 코드블락 테스트
 ** 그밑에 하나
 *** 그밑에 또 하나
 
-```
-public static void 
-```
+
 **** 어디까지가나
 
 
