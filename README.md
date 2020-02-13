@@ -66,7 +66,7 @@ code block
 오오
 
 
-```
+``` html
 <!DOCTYPE html>
 <html>
   <head>
@@ -88,4 +88,11 @@ code block
     <script src="js/app.js"></script>
   </body>
 </html>
+```
+
+
+``` java
+public static void main(String args[]) {
+ system.out.println();
+}
 ```
