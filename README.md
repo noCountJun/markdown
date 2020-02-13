@@ -64,3 +64,28 @@ code block
 쳐야지 줄바꿈이 된다   
 테스트   
 오오
+
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vue Router Sample</title>
+  </head>
+  <body>
+    <div id="app">
+      <h1>Hello Vue Router!</h1>
+      <p>
+        <router-link to="/foo">Go to Foo</router-link>
+        <router-link to="/bar">Go to Bar</router-link>
+      </p>
+      <router-view></router-view>
+    </div>
+    <script src="js/vendor/vue.js"></script>
+    <script src="js/vendor/vue-router.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
+```
